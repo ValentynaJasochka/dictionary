@@ -1,0 +1,22 @@
+export const words = [
+  { word: "głowa", translate: "голова" },
+  { word: "twarz", translate: "обличчя" },
+  { word: "włosy", translate: "волосся" },
+  { word: "oko", translate: "око" },
+  { word: "ucho", translate: "вухо" },
+  { word: "nos", translate: "ніс" },
+  { word: "usta", translate: "уста" },
+  { word: "język", translate: "язик" },
+  { word: "zęby", translate: "зуби" },
+  { word: "szyja", translate: "шия" },
+  { word: "ramię", translate: "плече" },
+  { word: "ręka", translate: "рука" },
+  { word: "palce", translate: "пальці" },
+  { word: "klatka piersiowa", translate: "грудна клітка" },
+  { word: "plecy", translate: "спина" },
+  { word: "brzuch", translate: "живіт" },
+  { word: "noga", translate: "нога" },
+  { word: "kolano", translate: "коліно" },
+  { word: "stopa", translate: "ступня" },
+  { word: "skóra", translate: "шкіра" }
+];
